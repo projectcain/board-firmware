@@ -24,7 +24,7 @@
 #define TAPPING_FORCE_HOLD
 /* WS2812 RGB LEDs */
 #ifdef RGBLIGHT_ENABLE
-  #define RGB_DI_PIN D0
+  #define RGB_DI_PIN D5
   #define RGBLED_NUM 13   // Number of LEDs
 
   #define RGBLIGHT_ANIMATIONS
